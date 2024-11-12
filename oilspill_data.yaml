@@ -1,0 +1,23 @@
+<<<<<<< HEAD
+# oilspill_data.yaml
+train: S:\IOE_Project\dataset\images\train
+val: S:\IOE_Project\dataset\images\val
+test: S:\IOE_Project\dataset\images\test  # Optional
+
+# List of classes in the dataset
+names: 
+  0: oil_spill
+  1: water
+  2: other
+=======
+# oilspill_data.yaml
+train: S:\IOE_Project\dataset\images\train
+val: S:\IOE_Project\dataset\images\val
+test: S:\IOE_Project\dataset\images\test  # Optional
+
+# List of classes in the dataset
+names: 
+  0: oil_spill
+  1: water
+  2: other
+>>>>>>> 60a215889218f5e2fc17543489ae788d1c38dadf
